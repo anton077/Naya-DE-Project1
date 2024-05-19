@@ -9,57 +9,6 @@
 ![](./media/image1.png){width="2.845138888888889in"
 height="1.1868055555555554in"}
 
-**Contents**
-
-[Project Overview 3](#project-overview)
-
-[About This Document 3](#about-this-document)
-
-[Project Main Goals 4](#project-main-goals)
-
-[Project Primary Assumptions 4](#project-primary-assumptions)
-
-[Project High-Level Objectives 4](#project-high-level-objectives)
-
-> [System Architecture 4](#system-architecture)
-
-[Project Low-Level Objectives 5](#project-low-level-objectives)
-
-> [System Workflow 5](#_heading=h.1ksv4uv)
-
-# Project Overview
-
-With millions of users consuming billions of hours of video daily and a
-constant stream of new content uploaded every minute, YouTube is a
-treasure trove of data for data scientists.
-
-This vast amount of information, accessible through three user-friendly
-APIs, offers a unique opportunity to extract insights on nearly anything
-on the platform. These insights can be used to solve a wide range of
-fascinating problems.
-
-# About This Document
-
-This document outlines a project plan for building a sentiment analysis
-tool for YouTube video comments, incorporating real-time data processing
-capabilities. By leveraging Apache Kafka, Apache Spark Streaming, and a
-platform like Cloudera, the tool can analyze sentiment of comments as
-they are posted, offering valuable insights into audience reception and
-overall video sentiment.
-
-# Project Main Goals
-
--   Create a solution architecture design according to the project
-    requirements.
-
--   Create data pipelines to support the project requirements.
-
--   Create a system specification document mentioning all key components
-    and descriptions about the solution.
-
--   Implement the course acquired knowledge from different fields
-    (infrastructure/logical) into a complete end-to-end solution.
-
 # Project Primary Assumptions
 
 -   The project runs on the course Docker in GCP.
