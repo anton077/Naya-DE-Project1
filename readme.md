@@ -1,10 +1,4 @@
-**NAYA College**
 
-**Data Engineering**
-
-**Project:**
-
-**The Commentator Platform**
 
 ![](./media/image1.png){width="2.845138888888889in"
 height="1.1868055555555554in"}
